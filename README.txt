@@ -10,9 +10,4 @@
 cd vbug
 python vbug.py
 
-### Thanks
-Hackenforce
-Arfortech
 
-### Author
-Dark_Shadow04
